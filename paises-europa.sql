@@ -1,4 +1,4 @@
-CREATE DATABASE IF NOT EXISTS paises CHARACTER SET utf8 COLLATE  utf8_general_ci;
+CREATE DATABASE IF NOT EXISTS usuario_paises CHARACTER SET utf8 COLLATE  utf8_general_ci;
 
 INSERT INTO `pais` (`id`, `nombre`, `capital`) VALUES
 (1, 'España', 'Madrid'),
