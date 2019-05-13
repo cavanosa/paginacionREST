@@ -4,7 +4,7 @@ INSERT INTO `pais` (`id`, `nombre`, `capital`) VALUES
 (1, 'España', 'Madrid'),
 (2, 'Francia', 'París'),
 (3, 'Alemania', 'Berlín'),
-(4, 'Inglaterra', 'Londres'),
+(4, 'Reino Unido', 'Londres'),
 (5, 'Portugal', 'Lisboa'),
 (6, 'Italia', 'Roma'),
 (7, 'Austria', 'Viena'),
